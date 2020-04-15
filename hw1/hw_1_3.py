@@ -5,10 +5,9 @@ while True:
     else:
         print('Ошибка ввода, введите число')
 
-sum_1 = int(num)+int(num*2)+int(num*3)
+sum_1 = int(num) + int(num * 2) + int(num * 3)
 print(sum_1)
 
-#2 способ
 #while True:
 #    num = input('Введите число\n')
 #    if num.isdigit():
@@ -16,6 +15,5 @@ print(sum_1)
 #        break
 #    else:
 #        print('Ошибка ввода, введите число')
-#
-#sum_1 = num+11*num+111*num
+#sum_1 = num + 11 * num + 111 * num
 #print(sum_1)
