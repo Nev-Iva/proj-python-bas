@@ -5,8 +5,8 @@ while True:
     else:
         print('Ошибка ввода, введите число')
 
-sum = int(num)+int(num*2)+int(num*3)
-print(sum)
+sum_1 = int(num)+int(num*2)+int(num*3)
+print(sum_1)
 
 #2 способ
 #while True:
@@ -17,5 +17,5 @@ print(sum)
 #    else:
 #        print('Ошибка ввода, введите число')
 #
-#sum = num+11*num+111*num
-#print(sum)
+#sum_1 = num+11*num+111*num
+#print(sum_1)
